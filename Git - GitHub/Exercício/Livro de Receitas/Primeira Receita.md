@@ -15,7 +15,7 @@
 1 pitada de rimas
 
 
-##MODO DE FAZER:
+## MODO DE FAZER:
 
 Misture com muita emoção,
 
@@ -32,7 +32,7 @@ Assar em forma untada de carinho,
 polvilhada de afeto em forno pré-aquecido.
 
 
-##IMPORTANTE:
+## IMPORTANTE:
 
 
 Prove antes de servir...
