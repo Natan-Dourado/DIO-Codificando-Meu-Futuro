@@ -1,3 +1,3 @@
-# Exercício de utilização do Git/Github
+##### Exercício de utilização do Git/Github
 
-## Criação de um livro de receitas.
+###### Criação de um livro de receitas.
