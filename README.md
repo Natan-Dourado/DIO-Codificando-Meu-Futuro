@@ -12,8 +12,12 @@
 
 [Bootstrap](https://getbootstrap.com/)
 
+[Visual Studio Code](https://code.visualstudio.com/download)
+
 ### Trilha do aprendizado 
 
 1° Ver sempre pelo ponto de vista,"devo está errando alguma coisa".
 
 2º É "sempre" possível começar novamente.
+
+3° 
