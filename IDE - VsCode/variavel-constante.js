@@ -15,10 +15,13 @@ preco = preco - desconto
 var desconto = 0.2;
 const PRECO = 2;
 
-//Na const o valor não pode ser manipulado.
+//Na "const" o valor não pode ser manipulado.
 // Isso não poderá ser feito:
 PRECO = PRECO - desconto
-//Perceba. O valor "PRECO" não pode ser uma variavél e uma constante ao mesmo tempo. Se uma constante é um valor que não pode ser manipulado, como o "PRECO" poderia ser uma constante se o valor muda ao final da operação? Ou seja, "PRECO - desconto" não pode ser igual a "PRECO", salvo se desconto for igual a zero. Logo, "PRECO - desconto" é igual a um valor difente. Valor que podemos poderiamso demominar. 
+//Perceba. O valor "PRECO" não pode ser uma variavél e uma constante ao mesmo tempo.
+//Se uma constante é um valor que não pode ser manipulado, como "PRECO" poderia ser uma constante, se o valor muda ao final da operação? 
+//Ou seja, "PRECO - desconto" não pode ser igual a "PRECO", salvo se desconto for igual a zero. 
+//Logo, "PRECO - desconto" é igual a um valor diferente. Valor que podemos demominar. 
 
 //Exemplo do uso correto de um valor constante.
 var desconto =  0.2;
@@ -30,7 +33,7 @@ var total = PRECO - desconto;
 function soma(a, b){
     return a + b;// 8
 }
-//Chamamento uma função.
+//Chamamento de uma função.
 soma(3,5);
 
 //O espaço em parenteses serve para declararmos parâmetros ou não.
