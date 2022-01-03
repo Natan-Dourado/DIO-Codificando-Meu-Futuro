@@ -20,4 +20,3 @@
 
 2º É "sempre" possível começar novamente.
 
-3° 
